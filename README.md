@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm Sreeram</h1>
+<p>
 - 🌱 I’m currently learning BCA
 
 - 👯 I’m looking to collaborate on **new projects!**
@@ -6,6 +7,7 @@
 - 💬 Ask me about **Python,React & Java**
 
 - 📫 How to reach me **sreeramsatish24@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
