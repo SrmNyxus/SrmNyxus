@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sreeram</h1>
-- 🌱 I’m currently learning **BCA**
+- 🌱 I’m currently learning BCA
 
 - 👯 I’m looking to collaborate on **new projects!**
 
