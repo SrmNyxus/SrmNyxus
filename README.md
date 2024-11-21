@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sreeram</h1>
+<h1>Hi 👋, I'm Sreeram</h1>
 - 🌱 I’m currently learning **Svelte**
 
 - 👯 I’m looking to collaborate on **new projects!**
