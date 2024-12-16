@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Sreeram</h1>
 <p>
-- 🌱 I’m currently learning BCA
-
-- 👯 I’m looking to collaborate on **new projects!**
-
+- 🌱 Currently at Uni
+  
 - 💬 Ask me about **Python,React & Java**
 
 - 📫 How to reach me **sreeramsatish24@gmail.com**
