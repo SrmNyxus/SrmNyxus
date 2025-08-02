@@ -1,5 +1,7 @@
-# 💫 Hi, I'm Sreeram..:
-🔭 I’m currently working on rebuilding my old projects<br>
+#     SrmNyxus
+
+# 💫 About Me:
+🔭 I’m currently working on rebuilding my old projects <br>🌱 I’m currently learning new Technologies<br>💬 Ask me about IoT and Python<br>
 
 
 ## 🌐 Socials:
